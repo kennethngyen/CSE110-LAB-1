@@ -11,6 +11,7 @@ main{
     scroll-margin-top: 148px;
     color:white;
     background-image: url("https://www.ucsd.edu/_resources/img/bg-orbs-1.jpg");
+    width:100%;
 }
 
 div{
